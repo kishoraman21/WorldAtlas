@@ -1,12 +1,36 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h1><strong>WorldAtlas</strong></h1>
 
-Currently, two official plugins are available:
+  <img src="https://github.com/kishoraman21/WorldAtlas/blob/e8cc36d942cf099f122c2d47d6a76a185982cbf5/image.png?raw=true" alt="Logo of the project" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## Expanding the ESLint configuration
+**WorldAtlas** is an interactive web application that provides geographical information, country details, and more — all in a clean and user-friendly interface. This project is built to explore and present world data in a visually appealing and informative way.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌍 Tech Stack
+
+- **React.js** – For building the dynamic user interface  
+- **REST APIs** – To fetch country, location, or world data (e.g., REST Countries API)  
+- **CSS / Tailwind / Styled Components** – For styling and layout  
+- **JavaScript (ES6+)** – Logic, data handling, and interactivity  
+- **Axios / Fetch API** – To make API requests  
+
+---
+
+## 🚀 Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/kishoraman21/WorldAtlas.git
+cd WorldAtlas
+
+# Install dependencies
+npm install
+
+# Start the application
+npm start
