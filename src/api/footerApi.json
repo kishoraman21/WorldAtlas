@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Earth"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9876XX7664"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@.com"
+    }
+  ]
